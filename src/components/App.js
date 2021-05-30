@@ -9,7 +9,10 @@ state= { images:[] };
 onSearchSubmit = async (term) => {
   const response = await unsplash
   .get("https://api.unsplash.com/search/photos", {
-    params: { query: term },
+    params: { 
+      query: term, 
+      per_page: 30 
+    },
   });
 
   this.setState({ images: response.data.results });
