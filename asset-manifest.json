@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Danielle-m-14/pics/tree/gh-pages/static/css/main.47939f92.chunk.css",
-    "main.js": "/Danielle-m-14/pics/tree/gh-pages/static/js/main.00069c89.chunk.js",
-    "main.js.map": "/Danielle-m-14/pics/tree/gh-pages/static/js/main.00069c89.chunk.js.map",
-    "runtime-main.js": "/Danielle-m-14/pics/tree/gh-pages/static/js/runtime-main.01e97aa9.js",
-    "runtime-main.js.map": "/Danielle-m-14/pics/tree/gh-pages/static/js/runtime-main.01e97aa9.js.map",
-    "static/js/2.66fc3e8f.chunk.js": "/Danielle-m-14/pics/tree/gh-pages/static/js/2.66fc3e8f.chunk.js",
-    "static/js/2.66fc3e8f.chunk.js.map": "/Danielle-m-14/pics/tree/gh-pages/static/js/2.66fc3e8f.chunk.js.map",
-    "index.html": "/Danielle-m-14/pics/tree/gh-pages/index.html",
-    "static/css/main.47939f92.chunk.css.map": "/Danielle-m-14/pics/tree/gh-pages/static/css/main.47939f92.chunk.css.map",
-    "static/js/2.66fc3e8f.chunk.js.LICENSE.txt": "/Danielle-m-14/pics/tree/gh-pages/static/js/2.66fc3e8f.chunk.js.LICENSE.txt"
+    "main.css": "/Danielle-m-14/pics.git/static/css/main.47939f92.chunk.css",
+    "main.js": "/Danielle-m-14/pics.git/static/js/main.00069c89.chunk.js",
+    "main.js.map": "/Danielle-m-14/pics.git/static/js/main.00069c89.chunk.js.map",
+    "runtime-main.js": "/Danielle-m-14/pics.git/static/js/runtime-main.da071f92.js",
+    "runtime-main.js.map": "/Danielle-m-14/pics.git/static/js/runtime-main.da071f92.js.map",
+    "static/js/2.66fc3e8f.chunk.js": "/Danielle-m-14/pics.git/static/js/2.66fc3e8f.chunk.js",
+    "static/js/2.66fc3e8f.chunk.js.map": "/Danielle-m-14/pics.git/static/js/2.66fc3e8f.chunk.js.map",
+    "index.html": "/Danielle-m-14/pics.git/index.html",
+    "static/css/main.47939f92.chunk.css.map": "/Danielle-m-14/pics.git/static/css/main.47939f92.chunk.css.map",
+    "static/js/2.66fc3e8f.chunk.js.LICENSE.txt": "/Danielle-m-14/pics.git/static/js/2.66fc3e8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01e97aa9.js",
+    "static/js/runtime-main.da071f92.js",
     "static/js/2.66fc3e8f.chunk.js",
     "static/css/main.47939f92.chunk.css",
     "static/js/main.00069c89.chunk.js"
